@@ -17,4 +17,4 @@ Features, bugs and chores is put to queue. This is where management can choose f
 It's better to release often and small to get feedback as soon as possible, o we can fail fast, if needed. Nobody likes big risky integrations. User stories and designs should be done with this concept in mind.
 
 #### Rule 6 - Create stuff you're proud of
-Large issues need separate design that is done with all stakeholders (qa, dev, po). Design needs to be peer-reviewed. When the solution is done, we'll peer-review the results. Peer-reviews are done in good spirit, everyone is doing their best.
+I do quality work and I want to share my work with my collagues. Peer-reviews are done in good spirit, everyone is doing their best. Large issues need separate design that is done with all stakeholders (qa, dev, po). Design needs to be peer-reviewed. When the solution is done, we'll peer-review the results.
