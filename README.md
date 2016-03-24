@@ -14,7 +14,7 @@ Estimates are inaccurate by definition. Hence you should not aim for certain dat
 Features, bugs and chores is put to queue. This is where management can choose features over another and do prioritization. We work with only one large issue at a time. Part of the team that is not working with the large issue works with smaller chores, bugs and features.
 
 #### Rule 5 - Release often
-It's better to release often and small to get feedback as soon as possible, o we can fail fast, if needed. Nobody likes big risky integrations. User stories and designs should be done with this concept in mind.
+It's better to release often and small to get feedback as soon as possible, so we can fail fast, if needed. Nobody likes big risky integrations. User stories and designs should be done with this concept in mind.
 
 #### Rule 6 - Create stuff you're proud of
 I do quality work and I want to share my work with my collagues. Peer-reviews are done in good spirit, everyone is doing their best. Large issues need separate design that is done with all stakeholders (qa, dev, po). Design needs to be peer-reviewed. When the solution is done, we'll peer-review the results.
